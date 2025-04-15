@@ -73,7 +73,7 @@ Head -> (master)
 
 
 ## To make git ignore files and folders create .gitignore file in root level 
-in that .gitignore file just add folder or files 
+in that .gitignore file just add folder or file names
 
 for Folders:
 suppose you have a folder called [api_keys]
